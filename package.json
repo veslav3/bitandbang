@@ -1,16 +1,16 @@
 {
-  "name": "bitandbang",
+  "name": "royhonders",
   "version": "1.4.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "description": "A personal card for Roy Honders (@Retro_IT_NL / veslav / veslav3)",
   "main": "/bin/card.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "git@github.com:veslav3/bitandbang.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://royhonders.dev",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
