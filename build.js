@@ -16,9 +16,9 @@ const options = {
 // Text + chalk definitions
 const data = {
   name: chalk.white('              Roy Honders'),
-  handle: chalk.white('Veslav / Retro IT'),
-  work: chalk.white('Full-stack developer at soundshare.net, \n              freelancer at Retro IT'),
-  twitter: chalk.gray('https://twitter.com/') + chalk.cyan('Retro_IT_NL'),
+  handle: chalk.white('Veslav'),
+  work: chalk.white('Software develop at Luminis & soundshare.net, \n              + freelance work at Retro IT'),
+  twitter: chalk.gray('https://twitter.com/') + chalk.cyan('Roy_Honders'),
   npm: chalk.gray('https://npmjs.com/') + chalk.red('~veslav'),
   github: chalk.gray('https://github.com/') + chalk.green('veslav3'),
   gitlab: chalk.gray('https://gitlab.com/') + chalk.yellow('veslav3'),
