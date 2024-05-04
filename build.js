@@ -17,7 +17,7 @@ const options = {
 const data = {
   name: chalk.white('              Roy Honders'),
   handle: chalk.white('Veslav'),
-  work: chalk.white('Software develop at Luminis & soundshare.net, \n              + freelance work at Retro IT'),
+  work: chalk.white('Front-end developer at Quintor & soundshare.net, \n              + freelance work at Retro IT'),
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('Roy_Honders'),
   npm: chalk.gray('https://npmjs.com/') + chalk.red('~veslav'),
   github: chalk.gray('https://github.com/') + chalk.green('veslav3'),

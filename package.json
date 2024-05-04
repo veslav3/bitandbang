@@ -1,6 +1,6 @@
 {
   "name": "royhonders",
-  "version": "1.4.0",
+  "version": "1.6.0",
   "description": "A personal card for Roy Honders (@Retro_IT_NL / veslav / veslav3)",
   "main": "/bin/card.js",
   "bin": {
